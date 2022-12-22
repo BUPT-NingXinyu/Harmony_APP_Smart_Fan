@@ -1,0 +1,7 @@
+<div class="container">
+    <text class="title">
+        智能风扇
+    </text>
+    <switch showtext="true" texton="开" textoff="关" checked="false" @change="switchChange"></switch>
+    <image src="/pages/index/fan.jpg"> </image>
+</div>
